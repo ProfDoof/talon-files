@@ -1,3 +1,5 @@
+mode: command
+mode: user.gamemode
 tag: user.parrot_mouse
 -
 tag(): user.mouse_cursor_commands_enable

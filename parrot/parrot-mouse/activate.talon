@@ -1,3 +1,6 @@
+mode: command
+mode: user.gamemode
+mode: sleep
 tag: user.override
 - 
 
