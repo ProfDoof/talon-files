@@ -148,6 +148,9 @@ tooltip expand:
 tooltip (pen | pin):
     user.gamemode_key("t")
 
+inspect:
+    user.gamemode_key("t")
+
 stack split [(and | end)]:
     user.toggle("shift")
 
